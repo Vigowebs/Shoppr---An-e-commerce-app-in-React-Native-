@@ -2,6 +2,8 @@
 
 Shoppr is an e-commerce app build in React Native (a open source UI framework for building mobile applications). This app contains many screens (listed below) for a production ready e-commerce applications. 
 
+[Buy it on Gumroad](https://vigowebs.gumroad.com/l/cabvqy)
+
 ## App Features
 
 * Build with latest version of React Native
