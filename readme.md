@@ -14,7 +14,7 @@ Shoppr is an e-commerce app build in React Native (a open source UI framework fo
 * Build with Expo
 
 ## Screenshots
-![Screenshots] (Shoppr-final.png)
+![Screenshots](Shoppr-final.png)
 
 ## Included Screens
 
